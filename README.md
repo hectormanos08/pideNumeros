@@ -1,2 +1,3 @@
 # pideNumeros
 Programa en el que te pide una serie de números "indefinidos" y hace unos cálculos con ellos. Ej: numero mas alto,mas bajo suma total, etc...
+Para parar el programa debes insertar un espacio en blanco, ahi te dara la opcion de parar.
